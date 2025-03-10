@@ -1,0 +1,8 @@
+Model\Funcionario.class
+Model\Agendavel.class
+Model\Agendamento.class
+br\com\barbearia\util\JPAUtil.class
+br\com\barbearia\Main.class
+Model\Servico.class
+Model\Cliente.class
+Model\Pessoa.class
